@@ -1,8 +1,8 @@
 # Tutorial de Desmontagem e Montagem de Hardware
 
 **Integrantes da Dupla:**
-- [Nome do Aluno 1]
-- [Nome do Aluno 2]
+- David Harlley Sousa Sarinho
+-Carlos Eduardo Bezerra de Brito Oliveira
 
 ---
 
