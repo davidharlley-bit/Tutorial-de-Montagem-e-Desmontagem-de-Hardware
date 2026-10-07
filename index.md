@@ -39,18 +39,10 @@ O objetivo principal deste tutorial é desmistificar a arquitetura de hardware, 
 4. **Remoção do Cooler e Processador:** Retirar o sistema de refrigeração, abrir a alavanca do socket e remover o processador com cuidado.
 
 ---
-📷 **FOTO 1: Visão Geral da Desmontagem**  
-![Componentes Desmontados](imagens/desmontado.jpg)  
+Visão Geral da Desmontagem**  
+![Componentes Desmontados](imagens/desmontado.jpeg)  
 *Figura 1: Visão geral do computador e componentes após o processo de desmontagem.*  
 
----
-
-📷 **FOTO 2: Manuseamento do Processador**  
-![Retirada do Processador](imagens/processador.jpg)  
-*Figura 2: Manuseamento cuidadoso do processador (CPU) pelas bordas laterais.*  
----
-
----
 
 ## 3. Passo a Passo da Montagem
 
@@ -60,14 +52,14 @@ O objetivo principal deste tutorial é desmistificar a arquitetura de hardware, 
 4. **Conexão de Cabos e Fonte:** Fixar a fonte de alimentação, ligar os cabos de energia da placa-mãe, discos e painel frontal.
 
 ---
-📷 **FOTO 3: Processo de Montagem**  
-![Montagem do Hardware](imagens/parceiro_montando.jpg)  
+Processo de Montagem**  
+![Montagem do Hardware](imagens/abestado.jpeg)  
 *Figura 3: Encaixe dos componentes e organização interna do computador.*  
 
 ---
 
-📷 **FOTO 4: Computador Totalmente Montado**  
-![Computador Montado](imagens/computador_montado.jpg)  
+ Computador Totalmente Montado**  
+![Computador Montado](imagens/montado.jpeg)  
 *Figura 4: Resultado final do computador montado e pronto para funcionamento.*  
 ---
 
