@@ -1,9 +1,5 @@
 # Tutorial de Desmontagem e Montagem de Hardware
 
-**Integrantes da Dupla:**
-- David Harlley Sousa Sarinho
--Carlos Eduardo Bezerra de Brito Oliveira
-
 ---
 
 ## 1. Introdução
