@@ -60,9 +60,5 @@ Processo de Montagem**
 
  Computador Totalmente Montado**  
 ![Computador Montado](imagens/montado.jpeg)  
-*Figura 4: Resultado final do computador montado e pronto para funcionamento.*  
----
-
----
 
 > 🔒 **Nota de Privacidade e Proteção de Dados:** Todas as imagens utilizadas focam exclusivamente nas peças, ferramentas e mãos em execução, em conformidade com as regras da atividade (sem exibição de rostos ou dados pessoais sensíveis)[cite: 1].
